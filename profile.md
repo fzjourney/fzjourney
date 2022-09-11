@@ -2,5 +2,5 @@
 - 👀 I’m interested in UI/UX Design, Front-end developer, and Back-end Developer
 - 🌱 I’m currently learning Back-end
 - 📫 You can contact me via:
-      -> Instagram  : fzjourney
+   <br>   -> Instagram  : fzjourney
       -> Email      : muhfeiza@gmail.com

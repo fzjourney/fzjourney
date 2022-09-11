@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Back-end
 - 📫 You can contact me via:
    <br>   -> Instagram  : fzjourney
-      -> Email      : muhfeiza@gmail.com
+   <br>   -> Email      : muhfeiza@gmail.com

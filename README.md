@@ -5,6 +5,12 @@
 </p>
 
 <p align="center">
+  <a href="https://leetcode.com/fzjourney/">
+    <img src="https://img.shields.io/badge/LeetCode-fzjourney-yellow?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
+  </a>
+</p>
+
+<p align="center">
   👨‍💻 All of my projects are available <a href="https://www.figma.com/proto/lXqk2gzoV7oMsWQH426Xm9/Portofolio-Pei?page-id=0:1&node-id=54-10&starting-point-node-id=54:10&scaling=scale-down-width&t=lTHVNaCh6sQl0fW7-1" target="_blank" style="color: #58a6ff; text-decoration: none;">Here!</a>
 </p>
 
